@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em python`**
 
-💻 Desenvolvedor Full Stack 
+💻 Desenvolvedor Back-End
 🚀 Apaixonado por tecnologia, programação e criação de projetos
 
 Desde pequeno sempre tive curiosidade sobre computadores e programação. Hoje sigo estudando diariamente para evoluir minhas habilidades e construir projetos cada vez maiores.
