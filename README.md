@@ -9,13 +9,11 @@ Desde pequeno sempre tive curiosidade sobre computadores e programação. Hoje s
 
 ## 📚 Atualmente estudando
 - Python
-- HTML & CSS
-- MySQL
-- Automações
 - Desenvolvimento de sistemas
 
 ## 🎯 Objetivos
 - Criar sistemas completos
+- Resolver problemas
 - Desenvolver automações
 - Aprender inteligência artificial
 - Evoluir como desenvolvedor
